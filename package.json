@@ -58,7 +58,7 @@
         "dotenv": "^16.0.0",
         "iconv-lite": "^0.6.3",
         "js-base64": "^3.7.2",
-        "jsonc-parser": "3.0.0",
+        "jsonc-parser": "3.3.1",
         "tmp": "^0.2.1",
         "tmp-promise": "^3.0.3",
         "tslib": "^2.3.1",
